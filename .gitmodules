@@ -3,4 +3,4 @@
 	url = https://github.com/osunyorg/theme.git
 [submodule "themes/rennes-hugo-theme"]
 	path = themes/rennes-hugo-theme
-	url = git@gitlab.ecedi.fr:osuny/rennes-ville-metropole/rennes-theme.git
+	url = https://gitlab.ecedi.fr/osuny/rennes-ville-metropole/rennes-theme.git
