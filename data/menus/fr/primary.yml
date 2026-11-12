@@ -1,49 +1,18 @@
 ---
 title: Menu principal
 items:
-- title: Fichiers
-  slug: fichiers
-  target: "/fichiers/"
-  kind: page
+- title: Fiches d'informations
+  slug: fiches-d-informations
+  target: "/rubrique/fiche-dinformations"
+  kind: url
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/files"
-  file: content/fr/files/_index.html
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
-  kind: page
+- title: Nos actions
+  slug: nos-actions
+  target: "/rubrique/nos-actions"
+  kind: url
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
-- title: Personnes
-  slug: personnes
-  target: "/personnes/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
-- title: Organisations
-  slug: organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
-- title: 'Transport de matières dangereuses : comment se protéger ?'
-  slug: transport-de-matieres-dangereuses-comment-se-proteger
-  target: "/transport-de-matieres-dangereuses-comment-se-proteger/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/transport-de-matieres-dangereuses-comment-se-proteger"
-  file: content/fr/pages/transport-de-matieres-dangereuses-comment-se-proteger/_index.html
 
