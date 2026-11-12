@@ -37,4 +37,13 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: 'Transport de matières dangereuses : comment se protéger ?'
+  slug: transport-de-matieres-dangereuses-comment-se-proteger
+  target: "/transport-de-matieres-dangereuses-comment-se-proteger/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/transport-de-matieres-dangereuses-comment-se-proteger"
+  file: content/fr/pages/transport-de-matieres-dangereuses-comment-se-proteger/_index.html
 
