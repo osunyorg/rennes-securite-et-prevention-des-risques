@@ -3,14 +3,14 @@ title: Menu principal
 items:
 - title: Fiches d'informations
   slug: fiches-d-informations
-  target: "/rubrique/fiche-dinformations"
+  target: "/fiches-dinformations/"
   kind: url
   new_tab: false
   children: []
   descendants_targets: []
 - title: Nos actions
   slug: nos-actions
-  target: "/rubrique/nos-actions"
+  target: "/nos-actions/"
   kind: url
   new_tab: false
   children: []
